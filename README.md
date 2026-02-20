@@ -100,4 +100,6 @@ Model files (.pkl) are not previewable on GitHub due to size limitations.
 
 🎥 Demo
 
-🔗 https://drive.google.com/file/d/1KoVD-cvXOqri9KuVGREJ2cyuIB3gjiIJ/view?usp=drive_link
+https://drive.google.com/file/d/1408Rv_vx_Y5Fh4xWnpkZzrpBn0qGrTKL/view?usp=sharing
+ 
+ 
