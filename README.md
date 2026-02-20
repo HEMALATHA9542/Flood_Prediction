@@ -1,6 +1,8 @@
 # Flood_Prediction
 Machine Learning based flood prediction system using Python and Flask.
-🌊 Rising Waters: A Machine Learning Approach to Flood Prediction
+ 
+ 
+ 🌊 Rising Waters: A Machine Learning Approach to Flood Prediction
 📌 Project Overview
 
 Rising Waters is a Machine Learning–based Flood Prediction System developed using Python and Flask.
@@ -50,11 +52,13 @@ Model Storage: Pickle (.pkl)
 🚀 How to Run the Project
 1️⃣ Clone the Repository
 git clone https://github.com/jagadala-durga-prasanna/Rainfall_Prediction_Project.git
-cd Rainfall_Prediction_Project
+
 2️⃣ Install Required Libraries
 pip install flask pandas numpy scikit-learn
+
 3️⃣ Run the Flask Application
 python app.py
+
 4️⃣ Open in Browser
 
 This is a local Flask application and runs on:
