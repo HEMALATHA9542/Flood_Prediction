@@ -51,7 +51,7 @@ Model Storage: Pickle (.pkl)
 
 🚀 How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/jagadala-durga-prasanna/Rainfall_Prediction_Project.git
+git clone https://github.com/HEMALATHA9542/Flood_Prediction.git
 
 2️⃣ Install Required Libraries
 pip install flask pandas numpy scikit-learn
